@@ -8,19 +8,21 @@
     background: linear-gradient(to right, #000000, #e74c3c);
     color: white;
     text-align: center;
-    padding-block: 10px; }
+    padding-block: 10px; 
+}
 
 nav {
     background-color: rgba(0, 0, 0, 1);
     text-align: center;
-    padding-block: 15px; position: sticky;
+    padding-block: 15px;  position: sticky;
     top: 0;
     color: white;
 }
 
 nav > h5 {
     display: inline-block;
-    margin-inline: 15px; }
+    margin-inline: 15px;
+ }
 
 nav > input {
     width: 30%;
@@ -45,27 +47,30 @@ nav > span {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    
 }
 
 .sale > header {
     width: 70%;
     background-color: rgba(0, 0, 0, 0.4);
     padding: 2%;
+    
 }
 
 .category-1 {
     padding: 1% 5%;
     background-color: rgba(0, 0, 0, 0.1);
+    
 }
 
 .c1_sub {
     padding: 1%;
     background-color: rgba(0, 0, 0, 0.3);
+    margin-block: 10px; color: rgba(0, 0, 0, 0.7);
+    
 }
 
-.c1_sub {
-    margin-block: 10px; color: rgba(0, 0, 0, 0.7);
-}
+
 
 .tr {
     height: 150px;
