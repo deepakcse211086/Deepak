@@ -1,5 +1,5 @@
 # Amazon Clone using HTML and CSS
-![](Screenshot%202024-06-16%20215042.png)
+(Screenshot%202024-06-16%20215042.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
